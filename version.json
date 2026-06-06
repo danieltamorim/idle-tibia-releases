@@ -1,0 +1,8 @@
+{
+  "versionName": "0.0.0",
+  "versionCode": 0,
+  "apkUrl": "https://github.com/danieltamorim/idle-tibia-releases/releases/latest/download/tibia-afk-0.0.0.apk",
+  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "releaseNotes": "Placeholder manifest. CI overwrites this on the first beta release.",
+  "publishedAt": "1970-01-01T00:00:00Z"
+}
