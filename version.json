@@ -1,8 +1,8 @@
 {
   "versionName": "0.1.0",
-  "versionCode": 2,
+  "versionCode": 3,
   "apkUrl": "https://github.com/danieltamorim/idle-tibia-releases/releases/download/v0.1.0/tibia-afk-0.1.0.apk",
-  "sha256": "e1addc40cb34db78c89c30d7c1d7e96021648fc25be1fe97bafee461f3991e3a",
+  "sha256": "92b3aed1e38a05144949b1ace88f952f40c18c0663bf67d7940d5c720378ea22",
   "releaseNotes": "Beta build for testers: hunt UI, skills, loot, and vocation updates",
-  "publishedAt": "2026-06-07T17:53:17Z"
+  "publishedAt": "2026-06-07T18:07:04Z"
 }
