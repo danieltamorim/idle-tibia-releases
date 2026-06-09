@@ -1,8 +1,9 @@
 {
   "versionName": "0.1.0",
-  "versionCode": 11,
+  "versionCode": 12,
   "apkUrl": "https://github.com/danieltamorim/idle-tibia-releases/releases/download/v0.1.0/tibia-afk-0.1.0.apk",
-  "sha256": "4d7d784aa55f85a2d8437e1fed4db1ef856f6906d4d945b34b42609e0edccf8e",
-  "releaseNotes": "Entry gate launch screen with server picker and sign-in, multi-server saves with cloud sync, What's New dialog, adaptive tablet layout for hunt/training, and entry gate dispose fix",
-  "publishedAt": "2026-06-09T16:57:15Z"
+  "sha256": "15e122908441a1734b801ada90e2330b15d588c5d81fdd637f19fe5709be8468",
+  "signingCertSha256": "90d005440f13009bc9563ac86a7951ad4149799880471d92179100c839831c14",
+  "releaseNotes": "Beta updater now validates signing keys and guides install permission. Hunt scene stays in sync with combat. New characters start with full 42h stamina. Entry gate sign-in polish.",
+  "publishedAt": "2026-06-09T18:06:45Z"
 }
