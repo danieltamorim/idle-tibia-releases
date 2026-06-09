@@ -1,9 +1,9 @@
 {
   "versionName": "0.1.0",
-  "versionCode": 14,
+  "versionCode": 15,
   "apkUrl": "https://github.com/danieltamorim/idle-tibia-releases/releases/download/v0.1.0/tibia-afk-0.1.0.apk",
-  "sha256": "d8f1a46e44e3978eabf2cebcf0efd1542f41e3318ff590eb6f4cd897e7a31f74",
+  "sha256": "1031f1b954551883546d02069e27fe3513e22a52c017c73cc310285ed3829a8f",
   "signingCertSha256": "90d005440f13009bc9563ac86a7951ad4149799880471d92179100c839831c14",
-  "releaseNotes": "Launcher icon fix: APKs now always use TibiAFK icon from brand asset. Auto-generated on every build.",
-  "publishedAt": "2026-06-09T22:59:44Z"
+  "releaseNotes": "Entry gate mobile layout fix, optimized TibiAFK launcher icons, and artwork sync for phone installs. Auto-update from +14 on next app launch.",
+  "publishedAt": "2026-06-09T23:35:22Z"
 }
