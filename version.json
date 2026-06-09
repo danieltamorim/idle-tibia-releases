@@ -1,8 +1,8 @@
 {
   "versionName": "0.1.0",
-  "versionCode": 5,
+  "versionCode": 7,
   "apkUrl": "https://github.com/danieltamorim/idle-tibia-releases/releases/download/v0.1.0/tibia-afk-0.1.0.apk",
-  "sha256": "d113f29e387dae15aefc7329554d21fa807163050756593c53d676bc7f82f89a",
-  "releaseNotes": "Depot storage, item collection, party/guild/chat/PvP multiplayer, combat UI overhaul, equipment presets, and bug fixes.",
-  "publishedAt": "2026-06-09T06:27:49Z"
+  "sha256": "90d1988f2268249f6a51023f24697c6b4895412dd3b28e79188a740ea837a530",
+  "releaseNotes": "Exaltation Forge, campaign map overhaul, new Rookgaard hunts and bosses, leaderboards, expanded item collection, welcome-back screen, and combat/inventory improvements.",
+  "publishedAt": "2026-06-09T09:13:09Z"
 }
