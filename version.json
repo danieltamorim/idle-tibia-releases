@@ -1,8 +1,8 @@
 {
   "versionName": "0.1.0",
-  "versionCode": 4,
+  "versionCode": 5,
   "apkUrl": "https://github.com/danieltamorim/idle-tibia-releases/releases/download/v0.1.0/tibia-afk-0.1.0.apk",
-  "sha256": "1180c67d1a223da4fb4e3d196eaa34fabaa0e724f477cdc65988b478e9e830a0",
-  "releaseNotes": "Reward wall, Rookgaard minimap updates, daily rewards polish, and hunt fixes",
-  "publishedAt": "2026-06-09T02:15:31Z"
+  "sha256": "d113f29e387dae15aefc7329554d21fa807163050756593c53d676bc7f82f89a",
+  "releaseNotes": "Depot storage, item collection, party/guild/chat/PvP multiplayer, combat UI overhaul, equipment presets, and bug fixes.",
+  "publishedAt": "2026-06-09T06:27:49Z"
 }
