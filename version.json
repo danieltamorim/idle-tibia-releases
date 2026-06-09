@@ -1,8 +1,8 @@
 {
   "versionName": "0.1.0",
-  "versionCode": 3,
+  "versionCode": 4,
   "apkUrl": "https://github.com/danieltamorim/idle-tibia-releases/releases/download/v0.1.0/tibia-afk-0.1.0.apk",
-  "sha256": "92b3aed1e38a05144949b1ace88f952f40c18c0663bf67d7940d5c720378ea22",
-  "releaseNotes": "Beta build for testers: hunt UI, skills, loot, and vocation updates",
-  "publishedAt": "2026-06-07T18:07:04Z"
+  "sha256": "1180c67d1a223da4fb4e3d196eaa34fabaa0e724f477cdc65988b478e9e830a0",
+  "releaseNotes": "Reward wall, Rookgaard minimap updates, daily rewards polish, and hunt fixes",
+  "publishedAt": "2026-06-09T02:15:31Z"
 }
