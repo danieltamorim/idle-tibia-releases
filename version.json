@@ -1,8 +1,8 @@
 {
   "versionName": "0.1.0",
-  "versionCode": 10,
+  "versionCode": 11,
   "apkUrl": "https://github.com/danieltamorim/idle-tibia-releases/releases/download/v0.1.0/tibia-afk-0.1.0.apk",
-  "sha256": "0ac68bea063e92458121c6b5a34c3edf280c0cf06acabf5ccd2e69969a464cfc",
-  "releaseNotes": "Prey, Character Bazaar, server chat, inspect other players (gear/skills, privacy toggle), weekly recap, boss/combat UX polish",
-  "publishedAt": "2026-06-09T15:52:10Z"
+  "sha256": "4d7d784aa55f85a2d8437e1fed4db1ef856f6906d4d945b34b42609e0edccf8e",
+  "releaseNotes": "Entry gate launch screen with server picker and sign-in, multi-server saves with cloud sync, What's New dialog, adaptive tablet layout for hunt/training, and entry gate dispose fix",
+  "publishedAt": "2026-06-09T16:57:15Z"
 }
