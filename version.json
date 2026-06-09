@@ -1,9 +1,9 @@
 {
   "versionName": "0.1.0",
-  "versionCode": 13,
+  "versionCode": 14,
   "apkUrl": "https://github.com/danieltamorim/idle-tibia-releases/releases/download/v0.1.0/tibia-afk-0.1.0.apk",
-  "sha256": "8cdbad2f4d804da8488176a6d357c2915e7ed63274912d067b7d2018bd98c932",
+  "sha256": "d8f1a46e44e3978eabf2cebcf0efd1542f41e3318ff590eb6f4cd897e7a31f74",
   "signingCertSha256": "90d005440f13009bc9563ac86a7951ad4149799880471d92179100c839831c14",
-  "releaseNotes": "Mastery, fish vendor, hunt simulator, BGM, RS mining, LPC combat avatars. Bug fixes for compile errors and entry gate music.",
-  "publishedAt": "2026-06-09T22:23:50Z"
+  "releaseNotes": "Launcher icon fix: APKs now always use TibiAFK icon from brand asset. Auto-generated on every build.",
+  "publishedAt": "2026-06-09T22:59:44Z"
 }
