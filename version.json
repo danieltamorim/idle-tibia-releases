@@ -1,9 +1,9 @@
 {
   "versionName": "0.1.0",
-  "versionCode": 12,
+  "versionCode": 13,
   "apkUrl": "https://github.com/danieltamorim/idle-tibia-releases/releases/download/v0.1.0/tibia-afk-0.1.0.apk",
-  "sha256": "15e122908441a1734b801ada90e2330b15d588c5d81fdd637f19fe5709be8468",
+  "sha256": "8cdbad2f4d804da8488176a6d357c2915e7ed63274912d067b7d2018bd98c932",
   "signingCertSha256": "90d005440f13009bc9563ac86a7951ad4149799880471d92179100c839831c14",
-  "releaseNotes": "Beta updater now validates signing keys and guides install permission. Hunt scene stays in sync with combat. New characters start with full 42h stamina. Entry gate sign-in polish.",
-  "publishedAt": "2026-06-09T18:06:45Z"
+  "releaseNotes": "Mastery, fish vendor, hunt simulator, BGM, RS mining, LPC combat avatars. Bug fixes for compile errors and entry gate music.",
+  "publishedAt": "2026-06-09T22:23:50Z"
 }
