@@ -1,8 +1,8 @@
 {
   "versionName": "0.1.0",
-  "versionCode": 8,
+  "versionCode": 9,
   "apkUrl": "https://github.com/danieltamorim/idle-tibia-releases/releases/download/v0.1.0/tibia-afk-0.1.0.apk",
-  "sha256": "ff2fcdbf5c9bc33b4ad3513005bf1e09833fb82a1bb70ec86aa59886a16a18c5",
-  "releaseNotes": "CI stability fixes and skull sprite assets; redeploy of 0.1.0 build.",
-  "publishedAt": "2026-06-09T13:08:03Z"
+  "sha256": "caab54ee2a0f4d7466e4879773069ea5b9e16be3f3ed0c173e9a2fd119cd4ec4",
+  "releaseNotes": "Fix grey screen after beta update (restart dialog). Hunt pauses when stamina runs out; hunt and live training no longer overlap.",
+  "publishedAt": "2026-06-09T13:34:07Z"
 }
