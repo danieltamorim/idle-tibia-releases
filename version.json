@@ -1,8 +1,8 @@
 {
   "versionName": "0.1.0",
-  "versionCode": 9,
+  "versionCode": 10,
   "apkUrl": "https://github.com/danieltamorim/idle-tibia-releases/releases/download/v0.1.0/tibia-afk-0.1.0.apk",
-  "sha256": "caab54ee2a0f4d7466e4879773069ea5b9e16be3f3ed0c173e9a2fd119cd4ec4",
-  "releaseNotes": "Fix grey screen after beta update (restart dialog). Hunt pauses when stamina runs out; hunt and live training no longer overlap.",
-  "publishedAt": "2026-06-09T13:34:07Z"
+  "sha256": "0ac68bea063e92458121c6b5a34c3edf280c0cf06acabf5ccd2e69969a464cfc",
+  "releaseNotes": "Prey, Character Bazaar, server chat, inspect other players (gear/skills, privacy toggle), weekly recap, boss/combat UX polish",
+  "publishedAt": "2026-06-09T15:52:10Z"
 }
