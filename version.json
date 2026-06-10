@@ -1,9 +1,9 @@
 {
   "versionName": "0.1.0",
-  "versionCode": 16,
+  "versionCode": 17,
   "apkUrl": "https://github.com/danieltamorim/idle-tibia-releases/releases/download/v0.1.0/tibia-afk-0.1.0.apk",
-  "sha256": "4773e000670fb801448b5ca12791bfd1126defb8859bdae8f92d80c5177d5d8c",
+  "sha256": "f7765bf4be718f73d1da33b9bf186397a43a3546be70d1ffa676ed417e2a8cc9",
   "signingCertSha256": "90d005440f13009bc9563ac86a7951ad4149799880471d92179100c839831c14",
-  "releaseNotes": "Marketplace, combat gear crafting, premium/IAP store, collection discovery, and lightning training VFX.",
-  "publishedAt": "2026-06-10T01:02:41Z"
+  "releaseNotes": "Campaign map, Wheel of Destiny, PT/EN localization, live hunt previews, and charm/wheel balance tuning.",
+  "publishedAt": "2026-06-10T05:51:40Z"
 }
