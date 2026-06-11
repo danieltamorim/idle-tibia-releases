@@ -1,9 +1,9 @@
 {
   "versionName": "0.1.0",
-  "versionCode": 17,
+  "versionCode": 18,
   "apkUrl": "https://github.com/danieltamorim/idle-tibia-releases/releases/download/v0.1.0/tibia-afk-0.1.0.apk",
-  "sha256": "f7765bf4be718f73d1da33b9bf186397a43a3546be70d1ffa676ed417e2a8cc9",
+  "sha256": "3fbf36d76e5763fafd21f165dc28d824358e4acd4fba2990252da6449df0e4c0",
   "signingCertSha256": "90d005440f13009bc9563ac86a7951ad4149799880471d92179100c839831c14",
-  "releaseNotes": "Campaign map, Wheel of Destiny, PT/EN localization, live hunt previews, and charm/wheel balance tuning.",
-  "publishedAt": "2026-06-10T05:51:40Z"
+  "releaseNotes": "OTC hunt shell, character roster, TibiaWiki loot/task sync, and character-select auth fix.",
+  "publishedAt": "2026-06-11T07:09:55Z"
 }
