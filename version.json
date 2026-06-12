@@ -1,9 +1,9 @@
 {
   "versionName": "0.1.0",
-  "versionCode": 18,
+  "versionCode": 19,
   "apkUrl": "https://github.com/danieltamorim/idle-tibia-releases/releases/download/v0.1.0/tibia-afk-0.1.0.apk",
-  "sha256": "3fbf36d76e5763fafd21f165dc28d824358e4acd4fba2990252da6449df0e4c0",
+  "sha256": "847fdf509ce94b6c853961cf82f9e7fb14b6bc0bcc3a31e2cb803b75cfebbcba",
   "signingCertSha256": "90d005440f13009bc9563ac86a7951ad4149799880471d92179100c839831c14",
-  "releaseNotes": "OTC hunt shell, character roster, TibiaWiki loot/task sync, and character-select auth fix.",
-  "publishedAt": "2026-06-11T07:09:55Z"
+  "releaseNotes": "Native hunt tilesets and pixel-dungeon creature visuals. Portrait shell polish, guild icons, and cloud sync improvements.",
+  "publishedAt": "2026-06-12T08:51:27Z"
 }
